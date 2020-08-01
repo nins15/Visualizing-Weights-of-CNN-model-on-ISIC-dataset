@@ -2,8 +2,11 @@
 * I have visualized the intermediate weights that exist between the layers of a neural network
 * An image from the data set below fed into the network
 * Output is an image representing 'weight concentrations'
+## EDA
 
-
+![alt text](https://github.com/nins15/Visualizing-Weights-of-CNN-model-on-ISIC-dataset/blob/master/Disease.png "Disease")
+![alt text](https://github.com/nins15/Visualizing-Weights-of-CNN-model-on-ISIC-dataset/blob/master/Height_width.png "Size")
+![alt text](https://github.com/nins15/Visualizing-Weights-of-CNN-model-on-ISIC-dataset/blob/master/Sampleimages.png "sampleimages")
 Solutions:
 To display a image representing weight concentration means to show that on which part is the layer is focusing
 so first run the kerastrainingtesting then run the trainandvisualize.
