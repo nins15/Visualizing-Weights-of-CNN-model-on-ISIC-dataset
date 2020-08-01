@@ -1,10 +1,7 @@
-# ninadshukla
-Task description:
-How can you visualise the intermediate weights that exist between the layers of a neural network?
-
-Specifications:
-Input: an image from the data set below fed into the network
-Output: an image representing 'weight concentrations'
+# Visualizing Weights of CNN Deep learning model on ISIC dataset: Project overview
+* I have visualized the intermediate weights that exist between the layers of a neural network
+* An image from the data set below fed into the network
+* Output is an image representing 'weight concentrations'
 
 
 Solutions:
