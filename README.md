@@ -1,7 +1,9 @@
 # Visualizing Weights of CNN Deep learning model on ISIC dataset: Project overview
 * I have visualized the intermediate weights that exist between the layers of a neural network
-* An image from the data set below fed into the network
+* An image from the ISIC data set which contains Malignant and benign images fed into the network
 * Output is an image representing 'weight concentrations'
+## Data Collection
+The dataset was obtained from kaggle.com (https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign)
 ## EDA
 
 ![alt text](https://github.com/nins15/Visualizing-Weights-of-CNN-model-on-ISIC-dataset/blob/master/Disease.png "Disease")
