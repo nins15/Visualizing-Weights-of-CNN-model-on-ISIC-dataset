@@ -12,7 +12,8 @@ The dataset was obtained from kaggle.com (https://www.kaggle.com/fanconic/skin-c
 
 ## Building a model
 I split the data into train and validation sets with a size of 25%.I used adam as optimizer.Instead of using tranfer learning I made a small model for scratch so that it will be easier to obtain weights from all the layers.
-
+![alt text](https://github.com/nins15/Visualizing-Weights-of-CNN-model-on-ISIC-dataset/blob/master/ISICaccuracy.png "Accuracy")
+![alt text](https://github.com/nins15/Visualizing-Weights-of-CNN-model-on-ISIC-dataset/blob/master/ISICloss.png "Loss")
 
 
 
