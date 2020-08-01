@@ -9,6 +9,13 @@ The dataset was obtained from kaggle.com (https://www.kaggle.com/fanconic/skin-c
 ![alt text](https://github.com/nins15/Visualizing-Weights-of-CNN-model-on-ISIC-dataset/blob/master/Disease.png "Disease")
 ![alt text](https://github.com/nins15/Visualizing-Weights-of-CNN-model-on-ISIC-dataset/blob/master/Height_width.png "Size")
 ![alt text](https://github.com/nins15/Visualizing-Weights-of-CNN-model-on-ISIC-dataset/blob/master/Sampleimages.png "sampleimages")
+
+## Building a model
+I split the data into train and validation sets with a size of 25%.I used adam as optimizer.Instead of using tranfer learning I made a small model for scratch so that it will be easier to obtain weights from all the layers.
+
+
+
+
 Solutions:
 To display a image representing weight concentration means to show that on which part is the layer is focusing
 so first run the kerastrainingtesting then run the trainandvisualize.
